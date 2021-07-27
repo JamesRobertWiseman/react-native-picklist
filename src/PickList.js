@@ -14,7 +14,7 @@ import {
 import { HeaderButton } from 'react-navigation-header-buttons';
 import {HeaderBackButton} from '@react-navigation/stack';
 import SearchBar from 'react-native-general-searchbar';
-import InitTree from '@hecom/general-tree';
+import InitTree from 'general-tree';
 import Cell from './Cell';
 import TitleLine from './TitleLine';
 import BottomBar from './BottomBar';
