@@ -1,6 +1,6 @@
 import React from 'react';
 import { Image, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
-import { FullSelect, IncompleteSelect, NotSelect } from 'general-tree';
+import { FullSelect, IncompleteSelect, NotSelect } from '@hecom/general-tree';
 import ArrowImage from '@hecom/image-arrow';
 import { isCascade } from './Util';
 
