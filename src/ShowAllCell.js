@@ -1,7 +1,7 @@
 import React from 'react';
 import { DeviceEventEmitter, Image, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 import PropTypes from 'prop-types';
-import { FullSelect, NotSelect } from '@hecom/general-tree';
+import { FullSelect, NotSelect } from 'general-tree';
 import Types from './Types';
 import { isCascade } from './Util'
 
