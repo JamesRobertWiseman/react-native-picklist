@@ -28,9 +28,10 @@
   "dependencies": {
     "@hecom/image-arrow": "^1.0.0",
     "react-navigation-header-buttons": "^2.1.1",
-    "react-native-general-searchbar": "^1.0.6"
+    "react-native-general-searchbar": "^1.0.6",
+    "@hecom/general-tree": "https://github.com/hecom-rn/general-tree.git"
   },
   "peerDependencies": {
-    "@hecom/general-tree": "https://github.com/hecom-rn/general-tree.git"
+    
   }
 }
